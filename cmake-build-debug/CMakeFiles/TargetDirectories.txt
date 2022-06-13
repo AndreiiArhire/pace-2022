@@ -1,0 +1,3 @@
+/home/andrei/Desktop/pace_2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrei/Desktop/pace_2022/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrei/Desktop/pace_2022/cmake-build-debug/CMakeFiles/pace_2022.dir
